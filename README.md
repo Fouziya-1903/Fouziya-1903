@@ -31,8 +31,6 @@ I chase the light in data streams.
 <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="42" height="42"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
 <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="42" height="42"/></a>
-
-<!-- Data Science Libraries -->
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="42" height="42"/></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="42" height="42"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="42" height="42"/></a>
