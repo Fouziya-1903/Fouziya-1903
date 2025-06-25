@@ -22,6 +22,41 @@ I chase the light in data streams.
 - **Visualization:** Power BI | Tableau | Excel  
 - **Tools:** Jupyter Notebook | Git | Android Studio | MySQL  
 - **Soft Skills:** Communication | Adaptability | Creativity | Teamwork
+<h2>🚀 Languages and Tools I Use</h2>
+<p align="left">
+
+<!-- Programming Languages -->
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="42" height="42"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
+<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="42" height="42"/></a>
+
+<!-- Data Science Libraries -->
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="42" height="42"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="42" height="42"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="42" height="42"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="42" height="42"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="42" height="42"/></a>
+
+<!-- Big Data & Cloud -->
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="42" height="42"/></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="42" height="42"/></a>
+<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="42" height="42"/></a>
+<a href="https://hbase.apache.org/" target="_blank"><img src="https://hbase.apache.org/images/hbase_logo_with_orca.png" alt="HBase" width="42" height="42"/></a>
+<a href="https://hive.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Apache_Hive_logo.svg" alt="Hive" width="42" height="42"/></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="42" height="42"/></a>
+
+<!-- Visualization -->
+<a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="42" height="42"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="42" height="42"/></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="42" height="42"/></a>
+
+<!-- Other Useful Tools -->
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="42" height="42"/></a>
+
+</p>
 
 ---
 
