@@ -1,36 +1,75 @@
-# 💫 Hi there, I'm Fouziya Shaik 👋
+I'm Fouziya Shaik
 
 🌼 *A curious coder, a believer in empathy,*  
-*Blending logic with heart, shaping tech with artistry.*  
-From SQL scripts to AI dreams,  
-I chase the light in data streams.  
+*Blending logic with heart, shaping tech with artistry.*
 
 ---
 
 ### 👩‍💻 Who Am I?
-🎓 A Computer Science graduate passionate about **AI, data analytics, and human-centered tech**.  
-🧠 Currently building an **AI Companion** to support emotional and mental well-being.  
-🔍 Fascinated by **user behavior**, emotional trends, and predictive models.  
+
+🎓 A Computer Science graduate with a **data science specialization**, now focused on **full-stack software development**.  
+🧩 I build **end-to-end products**, from the UI and APIs to the database, and I integrate **AI** where it makes the product smarter.  
+🤖 Currently building an **AI Ticket Triage Agent**, plus an **AI Companion** for emotional and mental well-being.  
 🎨 Also an artist at heart — I express through **code, color, and compassion**.
 
 ---
 
+## 🛠️ Tech Stack
 
-<h2> Languages and Tools I Use</h2>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/></a><a href="#"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="42"/></a><a href="#"><img src="https://img.icons8.com/color/48/000000/sql.png" width="42"/></a><a href="#"><img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="42"/></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="42"/></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/></a><a href="#"><img src="https://matplotlib.org/_static/images/logo2.svg" width="42"/></a><a href="#"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="42"/></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="42"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="42"/></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Apache_Hive_logo.svg" width="42"/></a><a href="#"><img src="https://hbase.apache.org/images/hbase_logo_with_orca.png" width="42"/></a><a href="#"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="42"/></a><a href="#"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="42"/></a><a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="42"/></a><a href="#"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="42"/></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="42"/></a><a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/></a>
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+**AI Integration**  
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**Data Science (my specialization)**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shaikfouziya)  
-- 💌 Email: shaikfouziya1903@gmail.com  
-- 💻 [GitHub](https://github.com/Fouziya-1903)  
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
-✨ *Turning data into stories, and dreams into deployable solutions.*  
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🎫 **AI Ticket Triage Agent** *(in progress)* | Classifies and routes support tickets using AI | *(add your stack)* |
+| 🧠 [Mental-Wellbeing](https://github.com/Fouziya-1903/Mental-Wellbeing) | Backend for my AI Companion for emotional well-being | Java, Spring Boot |
+| 🛒 [E-commerce-Application](https://github.com/Fouziya-1903/E-commerce-Application) | Full-stack online store | JavaScript |
+| 📦 [inventory-MGMT](https://github.com/Fouziya-1903/inventory-MGMT) | Inventory management app | JavaScript |
+| ✅ [task-Manager](https://github.com/Fouziya-1903/task-Manager) | Task management app | JavaScript |
+| 📚 [bookLibrary_API](https://github.com/Fouziya-1903/bookLibrary_API) | REST API for a book library | JavaScript |
+| 📊 [Employee-Analytics-Using-Spark-SQL](https://github.com/Fouziya-1903/Employee-Analytics-Using-Spark-SQL) | Employee data analysis with Spark SQL | Spark, SQL |
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shaikfouziya)
+- 💌 Email: <shaikfouziya1903@gmail.com>
+- 💻 [GitHub](https://github.com/Fouziya-1903)
+
+---
+
+✨ *Turning ideas into end-to-end, AI-powered products.*  
 🌱 *Forever learning, forever creating.*
