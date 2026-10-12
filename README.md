@@ -31,7 +31,6 @@ I'm Fouziya Shaik
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **AI Integration**  
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -45,7 +44,6 @@ I'm Fouziya Shaik
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
@@ -54,7 +52,6 @@ I'm Fouziya Shaik
 | Project | What it is | Stack |
 |---|---|---|
 | 🎫 **AI Ticket Triage Agent** *(in progress)* | Classifies and routes support tickets using AI | *(add your stack)* |
-| 🧠 [Mental-Wellbeing](https://github.com/Fouziya-1903/Mental-Wellbeing) | Backend for my AI Companion for emotional well-being | Java, Spring Boot |
 | 🛒 [E-commerce-Application](https://github.com/Fouziya-1903/E-commerce-Application) | Full-stack online store | JavaScript |
 | 📦 [inventory-MGMT](https://github.com/Fouziya-1903/inventory-MGMT) | Inventory management app | JavaScript |
 | ✅ [task-Manager](https://github.com/Fouziya-1903/task-Manager) | Task management app | JavaScript |
