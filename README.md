@@ -1,81 +1,54 @@
-# I'm Fouziya Shaik | Software Engineer
+# Fouziya Shaik
 
-🌼 *A curious coder, a believer in empathy,*  
-*Blending logic with heart, shaping tech with artistry.*
+**Software Engineer**
 
----
+Computer Science graduate with a data science specialization, focused on full-stack software development. I build end-to-end products, from the user interface and APIs to the database, and integrate AI where it makes the product more useful.
 
-### 👩‍💻 Who Am I?
-
-🎓 A Computer Science graduate with a **data science specialization**, now focused on **full-stack software development**.  
-🧩 I build **end-to-end products**, from the UI and APIs to the database, and I integrate **AI** where it makes the product smarter.  
-🤖 Currently building an **AI Ticket Triage Agent**, plus an **AI Companion** for emotional and mental well-being.  
-🎨 Also an artist at heart — I express through **code, color, and compassion**.
+Currently building an AI Ticket Triage Agent and an AI Companion for emotional and mental well-being.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**AI Integration**  
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Database & DevOps**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Data Science ( degree specialization)**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+| Area | Technologies |
+|---|---|
+| Languages | Java, JavaScript, TypeScript, Python, SQL |
+| Frontend | HTML5, CSS3, React |
+| Backend and APIs | Node.js, Express, Spring Boot, FastAPI |
+| AI Integration | LLM APIs, LangGraph |
+| Databases | PostgreSQL, MongoDB |
+| DevOps | Docker, GitHub Actions |
+| Data Science | Pandas, scikit-learn, Apache Spark, Jupyter |
+| Tools | Git, GitHub, Maven |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What it is | Stack |
+### AI Ticket Triage Agent (in progress)
+
+[Repository](https://github.com/Fouziya-1903/ai-ticket-triage-agent)
+
+A bounded agentic system for support tickets. It classifies incoming tickets, retrieves relevant knowledge using retrieval-augmented generation (RAG), and decides whether to resolve a ticket automatically or escalate it to a human. The design includes input and output guardrails, an audit trail, and an evaluation suite that measures accuracy over time.
+
+- **Current stage:** Node.js and TypeScript backend with PostgreSQL running in Docker
+- **Planned:** LLM classification, RAG pipeline (FastAPI, LangGraph), confidence-based decisions, React review dashboard, evaluation and CI
+- **Stack:** Node.js, TypeScript, PostgreSQL, Docker (planned: FastAPI, LangGraph, React)
+
+### Other Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| 🎫 **AI Ticket Triage Agent** *(in progress)* | Bounded agentic system that classifies support tickets, retrieves knowledge via RAG, and decides whether to auto-resolve or escalate to a human, with guardrails and an evaluation suite | Node.js, TypeScript, React, FastAPI, PostgreSQL, LangGraph, Docker |
-| 🛒 [E-commerce-Application](https://github.com/Fouziya-1903/E-commerce-Application) | Full-stack online store | JavaScript, Node.js. MongoDB, Mongoose |
-| ✅ [task-Manager](https://github.com/Fouziya-1903/task-Manager) | Role-based task management REST API with JWT auth and Swagger docs Live link: https://task-manager-lw2b.onrender.com/ | Node.js, Express, MongoDB |
-| 📦 [inventory-MGMT](https://github.com/Fouziya-1903/inventory-MGMT) | Inventory management app | JavaScript |
-| 📚 [bookLibrary_API](https://github.com/Fouziya-1903/bookLibrary_API) | REST API for a book library | JavaScript |
-| 📊 [Employee-Analytics-Using-Spark-SQL](https://github.com/Fouziya-1903/Employee-Analytics-Using-Spark-SQL) | Employee data analysis with Spark SQL | Spark, SQL |
+| [E-commerce-Application](https://github.com/Fouziya-1903/E-commerce-Application) | Backend REST API for an online store with JWT authentication, role-based access, cart management, and transactional order processing that prevents overselling | Node.js, Express, MongoDB, Mongoose |
+| [task-Manager](https://github.com/Fouziya-1903/task-Manager) | Role-based task management REST API with JWT authentication and Swagger documentation. [Live demo](https://task-manager-lw2b.onrender.com/) | Node.js, Express, MongoDB |
+| [inventory-MGMT](https://github.com/Fouziya-1903/inventory-MGMT) | Inventory management application | JavaScript |
+| [bookLibrary_API](https://github.com/Fouziya-1903/bookLibrary_API) | REST API for a book library | JavaScript |
+| [Employee-Analytics-Using-Spark-SQL](https://github.com/Fouziya-1903/Employee-Analytics-Using-Spark-SQL) | Employee data analysis with Spark SQL | Spark, SQL |
 
 ---
 
-### 📫 Let's Connect
+## Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shaikfouziya)
-- 💌 Email: <shaikfouziya1903@gmail.com>
-- 💻 [GitHub](https://github.com/Fouziya-1903)
-
----
-
-✨ *Turning ideas into end-to-end, AI-powered products.*  
-🌱 *Forever learning, forever creating.*
+- LinkedIn: [linkedin.com/in/shaikfouziya](https://www.linkedin.com/in/shaikfouziya)
+- Email: [shaikfouziya1903@gmail.com](mailto:shaikfouziya1903@gmail.com)
+- GitHub: [github.com/Fouziya-1903](https://github.com/Fouziya-1903)
