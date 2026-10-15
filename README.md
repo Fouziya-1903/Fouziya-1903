@@ -1,4 +1,4 @@
-I'm Fouziya Shaik
+# I'm Fouziya Shaik | Software Engineer
 
 🌼 *A curious coder, a believer in empathy,*  
 *Blending logic with heart, shaping tech with artistry.*
@@ -31,11 +31,19 @@ I'm Fouziya Shaik
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **AI Integration**  
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Data Science (my specialization)**  
+**Database & DevOps**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Data Science ( degree specialization)**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -44,6 +52,7 @@ I'm Fouziya Shaik
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
@@ -51,10 +60,10 @@ I'm Fouziya Shaik
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🎫 **AI Ticket Triage Agent** *(in progress)* | Classifies and routes support tickets using AI | *(add your stack)* |
-| 🛒 [E-commerce-Application](https://github.com/Fouziya-1903/E-commerce-Application) | Full-stack online store | JavaScript |
+| 🎫 **AI Ticket Triage Agent** *(in progress)* | Bounded agentic system that classifies support tickets, retrieves knowledge via RAG, and decides whether to auto-resolve or escalate to a human, with guardrails and an evaluation suite | Node.js, TypeScript, React, FastAPI, PostgreSQL, LangGraph, Docker |
+| 🛒 [E-commerce-Application](https://github.com/Fouziya-1903/E-commerce-Application) | Full-stack online store | JavaScript, Node.js. MongoDB, Mongoose |
+| ✅ [task-Manager](https://github.com/Fouziya-1903/task-Manager) | Role-based task management REST API with JWT auth and Swagger docs Live link: https://task-manager-lw2b.onrender.com/ | Node.js, Express, MongoDB |
 | 📦 [inventory-MGMT](https://github.com/Fouziya-1903/inventory-MGMT) | Inventory management app | JavaScript |
-| ✅ [task-Manager](https://github.com/Fouziya-1903/task-Manager) | Task management app | JavaScript |
 | 📚 [bookLibrary_API](https://github.com/Fouziya-1903/bookLibrary_API) | REST API for a book library | JavaScript |
 | 📊 [Employee-Analytics-Using-Spark-SQL](https://github.com/Fouziya-1903/Employee-Analytics-Using-Spark-SQL) | Employee data analysis with Spark SQL | Spark, SQL |
 
